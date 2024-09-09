@@ -21,7 +21,6 @@ function CheckForm(evt){
         return false;
     }
     else{
-        alert("validations passed");
         return true;
     }
 
